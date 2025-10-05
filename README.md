@@ -2,7 +2,7 @@
 
 Welcome to **C# Kickstart Part 2**! This course teaches object-oriented programming fundamentals in C# through hands-on exercises and projects.
 
-## 📚 Course Overview
+## Course Overview
 
 This course builds on C# fundamentals and guides you through:
 
@@ -12,7 +12,7 @@ This course builds on C# fundamentals and guides you through:
 - **Chapter 4**: Classes and Properties - Safe data access with validation
 - **Chapter 5**: Encapsulation - Writing bulletproof code with invariants
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By completing this course, you will:
 
@@ -34,7 +34,7 @@ c-sharp-kickstart-part-2/
 └── docs/              # Additional documentation
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ c-sharp-kickstart-part-2/
 
 Start with Chapter 1 and work sequentially through the chapters. Each chapter builds on previous concepts.
 
-## 🏋️ Exercises
+## Exercises
 
 Each chapter includes progressive exercises:
 
@@ -87,7 +87,7 @@ Each chapter includes progressive exercises:
 - **Exercise 04-XX**: Properties and validation
 - **Exercise 05-XX**: Encapsulation mastery
 
-## 🚀 Mini Projects
+##  Mini Projects
 
 Apply your knowledge with comprehensive projects:
 
@@ -110,7 +110,7 @@ dotnet test tests/03-road-to-objects.Tests/
 dotnet test --filter "DisplayName~MethodName"
 ```
 
-## 📝 Using GitHub
+## Using GitHub
 
 Learn how to save and sync your work across computers:
 
@@ -119,7 +119,7 @@ Learn how to save and sync your work across computers:
 - Push your solutions to track your progress
 - Access your work from anywhere
 
-## 🤝 Contributing
+## Contributing
 
 Found a typo or have a suggestion? Contributions are welcome!
 
@@ -129,18 +129,18 @@ Found a typo or have a suggestion? Contributions are welcome!
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This course material is provided for educational purposes.
 
-## 🆘 Getting Help
+## Getting Help
 
 - Review the chapter materials thoroughly
 - Check the [`solutions/`](./solutions/) directory for reference
 - Try the exercises multiple times
 - Experiment and learn from mistakes!
 
-## 🎉 Acknowledgments
+## Acknowledgments
 
 Created for students learning object-oriented programming in C#.
 
